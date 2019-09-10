@@ -2,14 +2,14 @@
 
 ## Last Time
 
-- Worked on dockerizing the Puppeteer tests
+- Finish up dockerizing the Puppeteer tests
+- Update documentation for Puppeteer tests
 
 ## Today
 
-- Finish up dockerizing the Puppeteer tests
-- Update documentation for Puppeteer tests
+- Look into pushing container to ECR
 - Test container in CircleCI pipeline
 
 ## Blocked By
 
-- Nothing
+- CircleCI Credits on Procurify org are all used up. (Alex is getting a paid subscription sorted)
